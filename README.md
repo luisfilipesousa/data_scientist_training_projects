@@ -1,6 +1,6 @@
 # data_scientist_training_projects
-Data science projects that I carried out during my training as a data scientist
-Projects are available in French and English
+Data science projects that I carried out during my training as a data scientist.
+Projects are available in French and English.
 
 #1 EdStatsData : cleaning and filling of the database and construction of synthetic indicators for countries
   problem: is the database sufficient to determine in which country an online education start-up should develop?
