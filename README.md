@@ -15,7 +15,7 @@ Projects are available in French.
   -files : OpenFoodFacts1.ipybn, OpenFoodFacts2.ipybn 
   
 #3 Building Energy Benchmarking : cleaning and filling of the database and using models to make predictions <br>
-  -problem : is it possible to predict the pollution of a building and its energy consumption? <br>
+  -problem : is it possible to predict the pollution of a building and its energy consumption based on its features ? <br>
   -dataset : https://data.seattle.gov/dataset/2016-Building-Energy-Benchmarking/2bpz-gwpy <br>
   -files : ongoing
   
