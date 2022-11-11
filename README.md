@@ -17,5 +17,5 @@ Projects are available in French.
 #3 Building Energy Benchmarking : statistical analysis of the database and using models to make predictions on building consuptions based on theirs caracteristics <br>
   -problem : is it possible to predict the pollution of a building and its energy consumption based on its features ? <br>
   -dataset : https://data.seattle.gov/dataset/2016-Building-Energy-Benchmarking/2bpz-gwpy <br>
-  -files : BuildingEnergyBenchmarking_exploration.ipynb, ongoing...
+  -files : BuildingEnergyBenchmarking_exploration.ipynb, MultinlinearRegression, ElasticNet, Random Forest
   
